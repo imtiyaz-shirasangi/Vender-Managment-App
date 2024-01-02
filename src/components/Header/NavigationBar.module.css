@@ -1,0 +1,31 @@
+.nav {
+  background-color: #ccc;
+  padding: 20px;
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}
+
+.nav ul li {
+  margin-right: 30px;
+}
+header{
+    font-weight: bold;
+    text-align:center;
+    margin-bottom: 30px;
+}
+
+.nav ul li a {
+  text-decoration: none;
+  font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: medium;
+}
+
+.managment {
+  margin: 20px;
+}
